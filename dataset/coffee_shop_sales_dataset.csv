@@ -1,0 +1,125 @@
+﻿Transaction ID,Date ,Time,Day of the week,Time of the day,Cashier ID,Coffee Type,Product Category,Size,Bean Origin,Roast Type,Milk Type,Syrups Added,Sugar Level,Temperature,Unit Price,Quantity,Total Sales,Tax Amount,Discount Applied,Customer ID,Customer Age Group,Customer Gender,Loyalty Member Status,Payment Method,Tip Amount,Satisfaction Score,Weather Condition,Temperature Celsius,Employee Count On Duty
+TXN-10000,9/1/2026,12:00 AM,Tuesday,Night,EMP-004,Mocha,Espresso Drinks,Medium,Guatemala,Light,Almond Milk,Vanilla,High,Hot,5.79,2,11.58,0.93,0,CUST-7683,26-35,Female,Bronze,Cash,1,4,Rainy,27,3
+TXN-10001,9/1/2026,2:00 AM,Tuesday,Night,EMP-010,Latte,Hot Coffee,Large,Colombia,Dark,None,None,Medium,Hot,4.61,1,4.61,0.37,0,CUST-1277,36-50,Male,None,Cash,1.5,5,Sunny,18,4
+TXN-10002,9/1/2026,4:00 AM,Tuesday,Night,EMP-010,Cold Brew,Specialty,Medium,Guatemala,Medium,Oat Milk,Hazelnut,Low,Iced,5.95,1,5.95,0.48,0,CUST-1232,51+,Male,Silver,UPI,1,5,Sunny,28,4
+TXN-10003,9/1/2026,6:00 AM,Tuesday,Morning,EMP-010,Cold Brew,Specialty,Small,Sumatra,Medium,Almond Milk,None,Medium,Hot,5.69,3,17.07,1.37,0,CUST-6690,36-50,Female,Bronze,Card,1,2,Sunny,6,4
+TXN-10004,9/1/2026,8:00 AM,Tuesday,Morning,EMP-009,Flat White,Hot Coffee,Medium,Brazil,Light,None,Chocolate,None,Hot,3.23,1,3.23,0.26,0,CUST-8659,51+,Male,Bronze,UPI,0.8,2,Rainy,18,7
+TXN-10005,9/1/2026,10:00 AM,Tuesday,Morning,EMP-004,Latte,Hot Coffee,Large,Guatemala,Dark,None,None,Low,Hot,3.16,1,3.16,0.25,0,CUST-1025,18-25,Female,Bronze,UPI,0.5,1,Sunny,26,7
+TXN-10006,9/1/2026,12:00 PM,Tuesday,Afternoon,EMP-002,Espresso,Hot Coffee,Small,Brazil,Light,Whole Milk,Caramel,High,Hot,5.17,1,5.17,0.41,0,CUST-8468,36-50,Male,Silver,Cash,1,4,Sunny,15,5
+TXN-10007,9/1/2026,2:00 PM,Tuesday,Afternoon,EMP-012,Cappuccino,Cold Coffee,Medium,Colombia,Light,None,Caramel,High,Iced,4.22,1,4.22,0.34,0,CUST-7410,36-50,Female,Bronze,Card,3,4,Windy,20,7
+TXN-10008,9/1/2026,4:00 PM,Tuesday,Afternoon,EMP-008,Cold Brew,Espresso Drinks,Small,Guatemala,Dark,Almond Milk,None,Low,Hot,3.73,1,3.73,0.3,0,CUST-9652,18-25,Male,Silver,Card,0.5,5,Sunny,12,7
+TXN-10009,9/1/2026,6:00 PM,Tuesday,Evening,EMP-003,Latte,Specialty,Small,Guatemala,Dark,Skim Milk,Chocolate,Low,Iced,5.03,1,5.03,0.4,0.5,CUST-4764,51+,Male,Bronze,Digital Wallet,2,1,Snowy,11,7
+TXN-10010,9/2/2026,12:00 AM,Wednesday,Night,EMP-004,Cold Brew,Espresso Drinks,Medium,Colombia,Dark,Almond Milk,Vanilla,Medium,Iced,4.2,1,4.2,0.34,0.42,CUST-7599,18-25,Male,Silver,Cash,0,4,Cloudy,15,5
+TXN-10011,9/2/2026,12:20 AM,Wednesday,Night,EMP-010,Cold Brew,Hot Coffee,Medium,Colombia,Medium,Oat Milk,Caramel,High,Hot,4.88,1,4.88,0.39,0,CUST-6102,26-35,Female,None,Digital Wallet,1,1,Sunny,7,5
+TXN-10012,9/2/2026,12:30 AM,Wednesday,Night,EMP-004,Mocha,Hot Coffee,Large,Ethiopia,Medium,None,None,None,Hot,4.61,1,4.61,0.37,0,CUST-8006,18-25,Male,Gold,Cash,0.6,1,Sunny,21,6
+TXN-10013,9/2/2026,2:00 AM,Wednesday,Night,EMP-002,Flat White,Espresso Drinks,Large,Sumatra,Dark,None,None,Medium,Iced,5.05,1,5.05,0.4,0.5,CUST-4483,26-35,Male,None,UPI,1,5,Sunny,18,6
+TXN-10014,9/2/2026,4:00 AM,Wednesday,Night,EMP-008,Mocha,Specialty,Small,Guatemala,Medium,None,None,Low,Iced,4.4,1,4.4,0.35,0,CUST-2994,36-50,Male,None,UPI,1,1,Cloudy,10,6
+TXN-10015,9/2/2026,6:00 AM,Wednesday,Morning,EMP-007,Flat White,Cold Coffee,Large,Guatemala,Light,None,Vanilla,High,Iced,5.44,1,5.44,0.44,0,CUST-9682,26-35,Male,None,Digital Wallet,0.5,2,Cloudy,12,6
+TXN-10016,9/2/2026,8:00 AM,Wednesday,Morning,EMP-001,Cold Brew,Espresso Drinks,Small,Colombia,Dark,Whole Milk,Hazelnut,Low,Iced,3.63,1,3.63,0.29,0.36,CUST-2072,26-35,Male,Bronze,UPI,0,2,Cloudy,26,4
+TXN-10017,9/2/2026,10:00 AM,Wednesday,Morning,EMP-001,Latte,Hot Coffee,Small,Colombia,Light,Whole Milk,Chocolate,Low,Hot,5.44,1,5.44,0.44,0,CUST-7707,26-35,Female,Silver,UPI,1,3,Windy,9,4
+TXN-10018,9/2/2026,12:00 PM,Wednesday,Afternoon,EMP-001,Macchiato,Hot Coffee,Large,Sumatra,Dark,Skim Milk,Hazelnut,Low,Iced,4.44,2,8.88,0.71,0,CUST-1215,36-50,Female,None,Card,1,5,Cloudy,31,6
+TXN-10019,9/2/2026,2:00 PM,Wednesday,Afternoon,EMP-005,Flat White,Cold Coffee,Large,Colombia,Light,None,Chocolate,Medium,Iced,6.06,1,6.06,0.48,0,CUST-8605,18-25,Male,Silver,UPI,0,3,Sunny,12,6
+TXN-10020,9/2/2026,4:00 PM,Wednesday,Afternoon,EMP-006,Macchiato,Espresso Drinks,Large,Brazil,Dark,Oat Milk,Chocolate,None,Iced,4.8,2,9.6,0.77,0,CUST-3606,26-35,Female,Bronze,Cash,1,2,Sunny,6,3
+TXN-10021,9/2/2026,6:00 PM,Wednesday,Evening,EMP-008,Cappuccino,Cold Coffee,Medium,Brazil,Light,Skim Milk,None,None,Iced,6.41,2,12.82,1.03,0,CUST-9350,51+,Non-Binary,Bronze,Card,0.5,3,Snowy,19,4
+TXN-10022,9/2/2026,8:00 PM,Wednesday,Evening,EMP-007,Mocha,Cold Coffee,Small,Brazil,Dark,None,Caramel,High,Hot,5.11,1,5.11,0.41,0,CUST-5781,36-50,Male,Bronze,Card,1,5,Sunny,16,3
+TXN-10023,9/2/2026,10:00 PM,Wednesday,Evening,EMP-007,Macchiato,Specialty,Small,Brazil,Dark,Whole Milk,None,Low,Hot,3.78,3,11.34,0.91,0,CUST-4313,26-35,Male,Silver,Card,1.5,5,Sunny,21,3
+TXN-10024,9/3/2026,12:00 AM,Thursday,Night,EMP-008,Mocha,Specialty,Small,Sumatra,Medium,Oat Milk,Vanilla,None,Hot,5.88,4,23.52,1.88,0,CUST-8763,36-50,Female,Bronze,Card,0,1,Cloudy,5,7
+TXN-10025,9/3/2026,2:00 AM,Thursday,Night,EMP-005,Flat White,Hot Coffee,Large,Guatemala,Light,Skim Milk,Chocolate,Low,Iced,4.21,1,4.21,0.34,0,CUST-6939,36-50,Male,None,Card,0,4,Rainy,19,5
+TXN-10026,9/3/2026,4:00 AM,Thursday,Night,EMP-009,Flat White,Espresso Drinks,Large,Brazil,Medium,Oat Milk,Caramel,High,Iced,4.22,1,4.22,0.34,0,CUST-3295,36-50,Male,Gold,UPI,1,1,Windy,18,4
+TXN-10027,9/3/2026,6:00 AM,Thursday,Morning,EMP-004,Cappuccino,Specialty,Large,Colombia,Light,None,Chocolate,Low,Hot,3.11,3,9.33,0.75,0.93,CUST-6685,26-35,Male,None,Digital Wallet,1,5,Cloudy,24,6
+TXN-10028,9/3/2026,8:00 AM,Thursday,Morning,EMP-002,Flat White,Hot Coffee,Large,Brazil,Medium,Almond Milk,Chocolate,None,Hot,4.92,2,9.84,0.79,0,CUST-2696,18-25,Male,Gold,UPI,1,2,Sunny,26,6
+TXN-10029,9/3/2026,10:00 AM,Thursday,Morning,EMP-010,Cold Brew,Espresso Drinks,Large,Sumatra,Dark,Oat Milk,None,Low,Iced,4.87,1,4.87,0.39,0,CUST-2946,18-25,Female,Silver,Card,1.5,2,Windy,20,5
+TXN-10030,9/3/2026,12:00 PM,Thursday,Afternoon,EMP-011,Cappuccino,Hot Coffee,Medium,Colombia,Medium,Oat Milk,Caramel,None,Hot,4.25,2,8.5,0.68,0.85,CUST-3783,18-25,Male,Gold,Card,1.5,1,Sunny,13,4
+TXN-10031,9/3/2026,2:00 PM,Thursday,Afternoon,EMP-005,Macchiato,Specialty,Large,Brazil,Medium,Whole Milk,Caramel,High,Iced,6.13,2,12.26,0.98,0,CUST-4644,26-35,Male,Gold,UPI,3,5,Sunny,5,6
+TXN-10032,9/3/2026,4:00 PM,Thursday,Afternoon,EMP-002,Flat White,Hot Coffee,Small,Guatemala,Dark,None,Chocolate,Low,Iced,3.45,2,6.9,0.55,0,CUST-6241,18-25,Female,None,Card,1,2,Rainy,21,6
+TXN-10034,9/3/2026,8:00 PM,Thursday,Evening,EMP-006,Americano,Espresso Drinks,Small,Colombia,Dark,None,Caramel,High,Iced,4.13,2,8.26,0.66,0,CUST-8557,26-35,Male,Silver,UPI,0.5,2,Rainy,25,3
+TXN-10035,9/3/2026,10:00 PM,Thursday,Evening,EMP-004,Espresso,Hot Coffee,Large,Guatemala,Light,Whole Milk,None,Low,Iced,3.32,1,3.32,0.27,0,CUST-3645,18-25,Male,Silver,Cash,0,5,Sunny,30,6
+TXN-10036,9/4/2026,12:00 AM,Friday,Night,EMP-005,Cold Brew,Espresso Drinks,Large,Colombia,Medium,None,Hazelnut,High,Iced,4.68,1,4.68,0.37,0,CUST-7589,36-50,Prefer not to say,Bronze,Card,1,3,Rainy,25,4
+TXN-10037,9/4/2026,2:00 AM,Friday,Night,EMP-002,Americano,Hot Coffee,Small,Brazil,Dark,Whole Milk,Vanilla,None,Hot,5.41,1,5.41,0.43,0,CUST-7353,26-35,Male,Bronze,UPI,0.8,5,Sunny,9,5
+TXN-10038,9/4/2026,4:00 AM,Friday,Night,EMP-004,Americano,Espresso Drinks,Small,Colombia,Dark,Whole Milk,Hazelnut,Low,Hot,4.79,3,14.37,1.15,0,CUST-2932,18-25,Female,Silver,Card,2,5,Cloudy,14,7
+TXN-10039,9/4/2026,6:00 AM,Friday,Morning,EMP-006,Mocha,Hot Coffee,Small,Brazil,Medium,Skim Milk,Caramel,Low,Hot,3.55,1,3.55,0.28,0,CUST-2757,36-50,Female,Silver,Digital Wallet,1,1,Snowy,10,4
+TXN-10040,9/4/2026,8:00 AM,Friday,Morning,EMP-006,Cold Brew,Hot Coffee,Small,Guatemala,Light,None,Chocolate,Low,Iced,4.32,1,4.32,0.35,0,CUST-6085,18-25,Female,None,UPI,1,3,Sunny,28,7
+TXN-10041,9/4/2026,10:00 AM,Friday,Morning,EMP-007,Cold Brew,Hot Coffee,Medium,Ethiopia,Medium,Almond Milk,Vanilla,High,Hot,3.01,1,3.01,0.24,0,CUST-6637,36-50,Female,Silver,Card,0.5,4,Sunny,23,3
+TXN-10042,9/4/2026,12:00 PM,Friday,Afternoon,EMP-003,Cappuccino,Cold Coffee,Small,Guatemala,Dark,Skim Milk,Vanilla,High,Iced,6.04,1,6.04,0.48,0.6,CUST-2116,36-50,Female,Silver,Card,0,1,Sunny,29,6
+TXN-10043,9/4/2026,2:00 PM,Friday,Afternoon,EMP-004,Mocha,Espresso Drinks,Large,Brazil,Light,Whole Milk,Chocolate,None,Iced,3.3,2,6.6,0.53,0,CUST-1492,26-35,Female,Silver,Card,0,4,Sunny,17,4
+TXN-10044,9/4/2026,4:00 PM,Friday,Afternoon,EMP-002,Macchiato,Specialty,Large,Sumatra,Medium,Almond Milk,Vanilla,Medium,Iced,5.09,2,10.18,0.81,0,CUST-9811,36-50,Female,Bronze,UPI,0.5,2,Cloudy,5,5
+TXN-10045,9/4/2026,6:00 PM,Friday,Evening,EMP-006,Espresso,Hot Coffee,Medium,Guatemala,Dark,Oat Milk,Chocolate,Low,Iced,6.45,1,6.45,0.52,0,CUST-8888,26-35,Male,Silver,Card,0,4,Cloudy,24,3
+TXN-10046,9/4/2026,8:00 PM,Friday,Evening,EMP-012,Macchiato,Cold Coffee,Small,Sumatra,Medium,Oat Milk,Vanilla,Low,Hot,4.88,1,4.88,0.39,0,CUST-7474,26-35,Female,Bronze,UPI,1,5,Sunny,29,3
+TXN-10047,9/4/2026,10:00 PM,Friday,Evening,EMP-004,Latte,Specialty,Large,Sumatra,Light,Skim Milk,Hazelnut,None,Hot,6.23,1,6.23,0.5,0,CUST-5958,18-25,Male,Silver,Card,1.5,4,Sunny,19,7
+TXN-10048,9/5/2026,12:00 AM,Saturday,Night,EMP-004,Espresso,Hot Coffee,Medium,Brazil,Light,Almond Milk,Vanilla,Low,Hot,3.83,1,3.83,0.31,0,CUST-3743,18-25,Male,None,UPI,1.5,1,Sunny,18,3
+TXN-10049,9/5/2026,2:00 AM,Saturday,Night,EMP-003,Mocha,Specialty,Large,Brazil,Light,None,None,High,Iced,5.66,1,5.66,0.45,0,CUST-8866,51+,Female,Silver,Cash,1,1,Cloudy,12,4
+TXN-10050,9/5/2026,4:00 AM,Saturday,Night,EMP-004,Flat White,Cold Coffee,Medium,Ethiopia,Light,Almond Milk,Chocolate,High,Hot,4.86,1,4.86,0.39,0,CUST-8160,26-35,Female,Bronze,Cash,0.5,4,Sunny,14,7
+TXN-10051,9/5/2026,6:00 AM,Saturday,Morning,EMP-008,Flat White,Specialty,Medium,Colombia,Light,Skim Milk,Vanilla,Low,Hot,5.52,1,5.52,0.44,0,CUST-6451,26-35,Female,Silver,Cash,1.5,1,Windy,13,3
+TXN-10052,9/5/2026,8:00 AM,Saturday,Morning,EMP-007,Mocha,Hot Coffee,Small,Guatemala,Medium,None,Chocolate,Low,Hot,3.22,1,3.22,0.26,0,CUST-6258,26-35,Female,Silver,Card,1.5,1,Cloudy,21,5
+TXN-10053,9/5/2026,10:00 AM,Saturday,Morning,EMP-008,Macchiato,Specialty,Medium,Brazil,Light,None,None,High,Iced,3.52,1,3.52,0.28,0,CUST-9548,26-35,Male,Bronze,Card,0,4,Sunny,13,4
+TXN-10054,9/5/2026,12:00 PM,Saturday,Afternoon,EMP-011,Mocha,Specialty,Large,Guatemala,Light,Oat Milk,Vanilla,Low,Hot,3.47,1,3.47,0.28,0,CUST-8186,18-25,Female,Silver,UPI,1,3,Rainy,7,5
+TXN-10055,9/5/2026,2:00 PM,Saturday,Afternoon,EMP-001,Mocha,Hot Coffee,Large,Sumatra,Dark,Almond Milk,Vanilla,High,Iced,5.41,1,5.41,0.43,0,CUST-7102,26-35,Female,None,Card,0.5,3,Windy,15,5
+TXN-10056,9/5/2026,4:00 PM,Saturday,Afternoon,EMP-005,Americano,Cold Coffee,Small,Colombia,Light,None,None,Medium,Hot,5.96,1,5.96,0.48,0.6,CUST-1619,36-50,Female,None,UPI,1.5,2,Rainy,16,7
+TXN-10057,9/5/2026,6:00 PM,Saturday,Evening,EMP-002,Latte,Cold Coffee,Small,Ethiopia,Dark,Skim Milk,None,Medium,Iced,5.62,2,11.24,0.9,0,CUST-1882,18-25,Prefer not to say,None,Card,3,1,Sunny,14,6
+TXN-10058,9/5/2026,8:00 PM,Saturday,Evening,EMP-011,Cold Brew,Specialty,Medium,Guatemala,Dark,Oat Milk,None,Low,Hot,3.11,1,3.11,0.25,0.31,CUST-9988,18-25,Male,Gold,Card,0,4,Sunny,29,7
+TXN-10059,9/5/2026,10:00 PM,Saturday,Evening,EMP-012,Flat White,Espresso Drinks,Small,Colombia,Dark,None,Chocolate,Low,Hot,6.04,1,6.04,0.48,0.6,CUST-4642,18-25,Male,Bronze,Card,1.5,1,Snowy,21,4
+TXN-10060,9/6/2026,12:00 AM,Sunday,Night,EMP-012,Americano,Specialty,Large,Ethiopia,Medium,Almond Milk,None,Low,Hot,4.24,2,8.48,0.68,0.85,CUST-2296,26-35,Female,Silver,Digital Wallet,1,5,Cloudy,21,4
+TXN-10061,9/6/2026,2:00 AM,Sunday,Night,EMP-010,Mocha,Espresso Drinks,Large,Guatemala,Medium,Oat Milk,Chocolate,High,Iced,4.39,1,4.39,0.35,0.44,CUST-9436,36-50,Male,None,Card,3,1,Cloudy,29,7
+TXN-10062,9/6/2026,4:00 AM,Sunday,Night,EMP-012,Cappuccino,Specialty,Small,Colombia,Dark,Almond Milk,Hazelnut,Medium,Hot,3.37,2,6.74,0.54,0,CUST-3895,18-25,Male,Bronze,UPI,0.5,1,Snowy,15,6
+TXN-10063,9/6/2026,6:00 AM,Sunday,Morning,EMP-004,Americano,Cold Coffee,Small,Brazil,Medium,Almond Milk,Vanilla,Medium,Hot,5.58,1,5.58,0.45,0,CUST-7593,18-25,Male,None,Card,1.5,3,Snowy,26,7
+TXN-10064,9/6/2026,8:00 AM,Sunday,Morning,EMP-012,Mocha,Specialty,Small,Guatemala,Light,Almond Milk,Vanilla,None,Iced,3.64,4,14.56,1.16,0,CUST-1929,26-35,Prefer not to say,Silver,UPI,0,4,Windy,8,4
+TXN-10065,9/6/2026,10:00 AM,Sunday,Morning,EMP-002,Flat White,Specialty,Medium,Colombia,Medium,Oat Milk,Caramel,None,Iced,4.97,2,9.94,0.8,0,CUST-6366,36-50,Female,Bronze,Card,0.5,1,Sunny,11,6
+TXN-10066,9/6/2026,12:00 PM,Sunday,Afternoon,EMP-007,Cold Brew,Espresso Drinks,Medium,Ethiopia,Light,None,Hazelnut,Low,Iced,5.94,2,11.88,0.95,0,CUST-9711,26-35,Male,Gold,Digital Wallet,0,3,Rainy,25,4
+TXN-10067,9/6/2026,2:00 PM,Sunday,Afternoon,EMP-002,Mocha,Specialty,Large,Guatemala,Light,Oat Milk,Vanilla,Low,Hot,4.99,2,9.98,0.89,0.14,CUST-9988,18-25,Male,Gold,Card,0,3,Snowy,16,3
+TXN-10068,9/6/2026,2:00 PM,Sunday,Afternoon,EMP-008,Mocha,Cold Coffee,Large,Colombia,Light,Whole Milk,None,High,Iced,3.31,2,6.62,0.53,0,CUST-4212,26-35,Male,Bronze,Digital Wallet,3,2,Cloudy,30,6
+TXN-10069,9/6/2026,4:00 PM,Sunday,Afternoon,EMP-003,Latte,Espresso Drinks,Medium,Brazil,Medium,None,None,Low,Hot,4.87,1,4.87,0.39,0,CUST-3409,36-50,Female,Silver,Card,1.5,3,Cloudy,18,6
+TXN-10070,9/6/2026,6:00 PM,Sunday,Evening,EMP-005,Macchiato,Specialty,Medium,Guatemala,Medium,Oat Milk,Hazelnut,Medium,Hot,3.82,1,3.82,0.31,0,CUST-9199,26-35,Female,Bronze,Digital Wallet,1.5,3,Cloudy,11,7
+TXN-10071,9/6/2026,8:00 PM,Sunday,Evening,EMP-012,Espresso,Hot Coffee,Medium,Guatemala,Dark,Whole Milk,None,Low,Iced,4.2,2,8.4,0.67,0.84,CUST-4423,36-50,Non-Binary,Bronze,Digital Wallet,2,3,Sunny,28,7
+TXN-10072,9/6/2026,10:00 PM,Sunday,Evening,EMP-011,Americano,Specialty,Medium,Guatemala,Medium,Whole Milk,Caramel,Low,Hot,4.66,1,4.66,0.37,0,CUST-7976,36-50,Female,Bronze,Cash,0,1,Cloudy,12,7
+TXN-10073,9/7/2026,12:00 AM,Monday,Night,EMP-001,Americano,Specialty,Large,Brazil,Medium,Whole Milk,Chocolate,Medium,Iced,4.24,2,8.48,0.68,0,CUST-8594,18-25,Male,Silver,Cash,0.5,1,Cloudy,5,6
+TXN-10074,9/7/2026,2:00 AM,Monday,Night,EMP-009,Americano,Espresso Drinks,Small,Ethiopia,Medium,Skim Milk,Vanilla,Medium,Hot,5.27,1,5.27,0.42,0.53,CUST-6158,18-25,Non-Binary,Bronze,Card,0,2,Sunny,28,6
+TXN-10075,9/7/2026,4:00 AM,Monday,Night,EMP-003,Mocha,Hot Coffee,Large,Guatemala,Light,Oat Milk,Hazelnut,Medium,Iced,4.68,1,4.68,0.37,0.47,CUST-4667,18-25,Male,Silver,UPI,0.5,5,Rainy,26,4
+TXN-10076,9/7/2026,6:00 AM,Monday,Morning,EMP-009,Cold Brew,Hot Coffee,Medium,Ethiopia,Light,Skim Milk,Vanilla,Medium,Hot,5.04,1,5.04,0.4,0,CUST-6973,26-35,Female,Silver,Card,0.5,5,Sunny,8,5
+TXN-10077,9/7/2026,8:00 AM,Monday,Morning,EMP-006,Latte,Espresso Drinks,Small,Colombia,Light,Whole Milk,Chocolate,None,Iced,5.58,1,5.58,0.45,0.56,CUST-7236,51+,Male,Gold,Card,0.5,5,Sunny,16,7
+TXN-10078,9/7/2026,10:00 AM,Monday,Morning,EMP-012,Cold Brew,Cold Coffee,Small,Ethiopia,Dark,Skim Milk,Hazelnut,High,Iced,4.95,1,4.95,0.4,0.5,CUST-9277,26-35,Female,Silver,Digital Wallet,0.5,2,Sunny,28,4
+TXN-10079,9/7/2026,12:00 PM,Monday,Afternoon,EMP-012,Mocha,Hot Coffee,Small,Ethiopia,Dark,Skim Milk,Chocolate,High,Hot,5.05,1,5.05,0.4,0.5,CUST-3468,18-25,Male,Silver,Card,0,5,Rainy,7,4
+TXN-10080,9/7/2026,2:00 PM,Monday,Afternoon,EMP-005,Mocha,Hot Coffee,Large,Guatemala,Dark,Oat Milk,None,Medium,Hot,4.98,1,4.98,0.4,0,CUST-7217,36-50,Female,Bronze,Cash,0,5,Rainy,17,3
+TXN-10081,9/7/2026,4:00 PM,Monday,Afternoon,EMP-005,Macchiato,Espresso Drinks,Small,Sumatra,Light,Almond Milk,None,High,Hot,4.33,1,4.33,0.35,0,CUST-4619,26-35,Male,Gold,Cash,0,3,Cloudy,24,7
+TXN-10082,9/7/2026,6:00 PM,Monday,Evening,EMP-003,Cappuccino,Cold Coffee,Large,Sumatra,Medium,Skim Milk,None,High,Iced,4.18,1,4.18,0.33,0,CUST-2636,18-25,Male,Silver,Digital Wallet,3,1,Cloudy,10,4
+TXN-10083,9/7/2026,8:00 PM,Monday,Evening,EMP-003,Latte,Cold Coffee,Large,Brazil,Dark,Skim Milk,Chocolate,High,Hot,6.15,2,12.3,0.98,0,CUST-9155,26-35,Male,None,Digital Wallet,1,1,Snowy,15,3
+TXN-10084,9/7/2026,10:00 PM,Monday,Evening,EMP-008,Americano,Specialty,Medium,Brazil,Dark,Whole Milk,Chocolate,High,Iced,5.13,1,5.13,0.41,0,CUST-4583,26-35,Male,Gold,Card,3,3,Sunny,27,7
+TXN-10085,9/7/2026,10:15 PM,Monday,Night,EMP-007,Espresso,Specialty,Medium,Sumatra,Light,Whole Milk,Chocolate,Medium,Hot,3.86,1,3.86,0.31,0,CUST-5009,36-50,Male,Bronze,Card,0.5,3,Sunny,8,6
+TXN-10086,9/7/2026,10:30 PM,Monday,Night,EMP-008,Americano,Espresso Drinks,Small,Colombia,Dark,Whole Milk,Vanilla,Low,Hot,4.74,1,4.74,0.38,0.47,CUST-4326,18-25,Male,Bronze,UPI,0.5,3,Snowy,24,3
+TXN-10087,9/7/2026,11:55 PM,Monday,Night,EMP-005,Cold Brew,Cold Coffee,Small,Guatemala,Medium,None,Chocolate,Low,Iced,4.16,2,8.32,0.67,0,CUST-9148,18-25,Female,None,Card,1,1,Sunny,20,6
+TXN-10088,9/8/2026,6:00 AM,Tuesday,Morning,EMP-004,Mocha,Espresso Drinks,Medium,Guatemala,Light,Skim Milk,None,Low,Iced,6.27,1,6.27,0.5,0.63,CUST-3217,26-35,Male,Bronze,Card,0.5,5,Windy,11,5
+TXN-10089,9/8/2026,8:00 AM,Tuesday,Morning,EMP-004,Latte,Specialty,Large,Colombia,Light,Whole Milk,Caramel,None,Hot,3.03,2,6.06,0.48,0,CUST-5967,18-25,Female,Bronze,Card,0.5,3,Snowy,26,5
+TXN-10090,9/8/2026,10:00 AM,Tuesday,Morning,EMP-001,Flat White,Espresso Drinks,Large,Colombia,Medium,Oat Milk,Chocolate,High,Iced,3.79,3,11.37,0.91,0,CUST-3369,26-35,Male,None,Cash,0.5,2,Rainy,15,5
+TXN-10091,9/8/2026,12:00 PM,Tuesday,Afternoon,EMP-008,Latte,Espresso Drinks,Medium,Sumatra,Medium,None,Caramel,Medium,Iced,4.28,1,4.28,0.34,0.43,CUST-4638,26-35,Female,Silver,UPI,0,3,Windy,28,5
+TXN-10092,9/8/2026,2:00 PM,Tuesday,Afternoon,EMP-007,Latte,Hot Coffee,Large,Brazil,Medium,Almond Milk,None,Medium,Hot,4.71,1,4.71,0.38,0,CUST-6722,26-35,Female,None,Card,0.5,4,Sunny,5,4
+TXN-10093,9/8/2026,4:00 PM,Tuesday,Afternoon,EMP-006,Cappuccino,Hot Coffee,Medium,Colombia,Dark,Skim Milk,Chocolate,None,Iced,5.98,1,5.98,0.48,0,CUST-5444,51+,Male,Gold,UPI,0.5,3,Sunny,30,5
+TXN-10094,9/8/2026,6:00 PM,Tuesday,Evening,EMP-001,Americano,Hot Coffee,Medium,Brazil,Medium,Skim Milk,Vanilla,Medium,Hot,3.31,1,3.31,0.26,0.33,CUST-8618,26-35,Female,None,Card,1,1,Cloudy,31,4
+TXN-10095,9/8/2026,8:00 PM,Tuesday,Evening,EMP-010,Cappuccino,Specialty,Small,Ethiopia,Light,Oat Milk,Vanilla,Low,Hot,5.82,1,5.82,0.47,0,CUST-4947,18-25,Female,Silver,Card,0,3,Sunny,11,4
+TXN-10096,9/8/2026,10:00 PM,Tuesday,Evening,EMP-002,Flat White,Espresso Drinks,Small,Guatemala,Medium,Almond Milk,Caramel,None,Iced,3.19,3,9.57,0.77,0,CUST-2676,26-35,Male,Bronze,Cash,0.5,4,Windy,16,7
+TXN-10097,9/9/2026,12:00 AM,Wednesday,Night,EMP-003,Flat White,Hot Coffee,Medium,Sumatra,Light,Almond Milk,Vanilla,Medium,Hot,5.95,1,5.95,0.48,0.6,CUST-2196,36-50,Male,Silver,UPI,1.5,2,Sunny,11,4
+TXN-10098,9/9/2026,2:00 AM,Wednesday,Night,EMP-011,Macchiato,Hot Coffee,Small,Guatemala,Light,None,Vanilla,None,Iced,3.18,1,3.18,0.25,0,CUST-3787,36-50,Male,Bronze,Cash,0,5,Rainy,31,4
+TXN-10099,9/9/2026,4:00 AM,Wednesday,Night,EMP-010,Cold Brew,Hot Coffee,Medium,Sumatra,Dark,Skim Milk,Vanilla,None,Hot,3.06,1,3.06,0.24,0,CUST-8432,18-25,Female,Gold,Card,0.5,3,Rainy,27,5
+TXN-10100,9/9/2026,6:00 AM,Wednesday,Morning,EMP-004,Espresso,Specialty,Large,Ethiopia,Medium,Whole Milk,None,Medium,Iced,5.44,2,10.88,0.87,0,CUST-8927,51+,Male,None,Cash,1.5,4,Cloudy,11,4
+TXN-10101,9/9/2026,8:00 AM,Wednesday,Morning,EMP-002,Macchiato,Specialty,Large,Guatemala,Dark,Oat Milk,Vanilla,Low,Iced,6.49,1,6.49,0.52,0.65,CUST-4318,26-35,Female,None,UPI,0,4,Sunny,14,6
+TXN-10102,9/9/2026,10:00 AM,Wednesday,Morning,EMP-011,Mocha,Espresso Drinks,Large,Ethiopia,Medium,Oat Milk,Hazelnut,Medium,Iced,6.14,1,6.14,0.49,0,CUST-9858,18-25,Male,Silver,UPI,0,2,Sunny,20,5
+TXN-10103,9/9/2026,12:00 PM,Wednesday,Afternoon,EMP-011,Cappuccino,Espresso Drinks,Large,Sumatra,Medium,Oat Milk,Chocolate,High,Iced,5.02,3,15.06,1.2,1.51,CUST-7689,18-25,Male,None,UPI,0.5,1,Snowy,30,3
+TXN-10104,9/9/2026,2:00 PM,Wednesday,Afternoon,EMP-005,Cappuccino,Espresso Drinks,Medium,Colombia,Medium,Oat Milk,Vanilla,High,Iced,6.21,2,12.42,0.99,0,CUST-3176,18-25,Male,Bronze,Digital Wallet,0.5,3,Sunny,12,5
+TXN-10105,9/9/2026,4:00 PM,Wednesday,Afternoon,EMP-001,Macchiato,Hot Coffee,Large,Guatemala,Medium,Whole Milk,Vanilla,Medium,Hot,3.02,1,3.02,0.24,0,CUST-4743,36-50,Female,Bronze,UPI,1,4,Snowy,13,4
+TXN-10106,9/9/2026,6:00 PM,Wednesday,Evening,EMP-010,Mocha,Cold Coffee,Large,Ethiopia,Medium,Whole Milk,Vanilla,Low,Hot,6.41,1,6.41,0.51,0,CUST-9792,18-25,Female,Silver,UPI,1.5,2,Rainy,13,6
+TXN-10107,9/9/2026,8:00 PM,Wednesday,Evening,EMP-007,Latte,Specialty,Large,Guatemala,Light,None,Hazelnut,High,Iced,4.72,2,9.44,0.76,0.94,CUST-5422,18-25,Female,Silver,Digital Wallet,0,5,Cloudy,6,5
+TXN-10108,9/9/2026,10:00 PM,Wednesday,Evening,EMP-004,Mocha,Hot Coffee,Large,Guatemala,Light,Skim Milk,Vanilla,High,Hot,5.53,1,5.53,0.44,0,CUST-4824,36-50,Female,Silver,Cash,1,4,Cloudy,17,6
+TXN-10109,9/10/2026,12:00 AM,Thursday,Night,EMP-011,Americano,Hot Coffee,Medium,Guatemala,Medium,Whole Milk,Vanilla,Medium,Iced,5.87,1,5.87,0.47,0,CUST-3451,26-35,Female,Silver,UPI,1,2,Sunny,17,3
+TXN-10110,9/10/2026,2:00 AM,Thursday,Night,EMP-012,Macchiato,Espresso Drinks,Large,Brazil,Light,None,Chocolate,Medium,Iced,5.51,1,5.51,0.44,0,CUST-1628,18-25,Male,None,Cash,0,1,Rainy,27,3
+TXN-10111,9/10/2026,4:00 AM,Thursday,Night,EMP-012,Cold Brew,Espresso Drinks,Small,Ethiopia,Dark,Almond Milk,Hazelnut,Medium,Hot,4.87,1,4.87,0.39,0,CUST-8778,18-25,Female,Gold,Card,1,1,Snowy,27,7
+TXN-10112,9/10/2026,6:00 AM,Thursday,Morning,EMP-006,Mocha,Hot Coffee,Small,Ethiopia,Dark,Skim Milk,Hazelnut,None,Hot,4.67,2,9.34,0.75,0,CUST-4696,18-25,Male,None,Card,0.5,4,Rainy,8,7
+TXN-10113,9/10/2026,8:00 AM,Thursday,Morning,EMP-009,Latte,Specialty,Small,Guatemala,Dark,Whole Milk,Vanilla,None,Iced,5.94,3,17.82,1.43,0,CUST-4674,18-25,Female,Silver,UPI,0.5,4,Windy,29,5
+TXN-10114,9/10/2026,10:00 AM,Thursday,Morning,EMP-002,Mocha,Specialty,Small,Colombia,Medium,Almond Milk,Hazelnut,None,Iced,3.72,1,3.72,0.3,0,CUST-4929,26-35,Male,Bronze,Digital Wallet,0,3,Rainy,28,7
+TXN-10115,9/10/2026,12:00 PM,Thursday,Afternoon,EMP-010,Cappuccino,Hot Coffee,Small,Guatemala,Medium,None,Caramel,Medium,Iced,6.39,1,6.39,0.51,0,CUST-3765,18-25,Male,Bronze,Digital Wallet,0.5,2,Sunny,16,6
+TXN-10116,9/10/2026,2:00 PM,Thursday,Afternoon,EMP-009,Espresso,Cold Coffee,Small,Brazil,Light,Whole Milk,Hazelnut,Low,Iced,5.49,1,5.49,0.44,0,CUST-5369,18-25,Female,None,Card,0.5,4,Sunny,21,7
+TXN-10117,9/10/2026,4:00 PM,Thursday,Afternoon,EMP-011,Cappuccino,Cold Coffee,Medium,Sumatra,Light,Whole Milk,Hazelnut,High,Iced,3.7,1,3.7,0.3,0,CUST-9307,36-50,Female,Silver,UPI,1.5,3,Windy,6,6
+TXN-10118,9/10/2026,6:00 PM,Thursday,Evening,EMP-011,Cold Brew,Specialty,Small,Brazil,Light,Almond Milk,Hazelnut,None,Iced,5.58,2,11.16,0.89,0,CUST-5956,26-35,Male,Silver,Card,0,3,Sunny,17,7
+TXN-10119,9/10/2026,8:00 PM,Thursday,Evening,EMP-012,Flat White,Espresso Drinks,Large,Colombia,Dark,Whole Milk,None,Low,Hot,4.85,1,4.85,0.39,0.48,CUST-1692,26-35,Female,Silver,Digital Wallet,0.5,4,Snowy,22,7
+TXN-10120,9/10/2026,10:00 PM,Thursday,Evening,EMP-012,Espresso,Cold Coffee,Small,Guatemala,Dark,Oat Milk,None,Medium,Iced,5.48,1,5.48,0.44,0,CUST-4162,26-35,Male,Gold,Digital Wallet,0.5,1,Snowy,31,7
+TXN-10121,9/10/2026,11:60 PM,Thursday,Evening,EMP-011,Espresso,Specialty,Large,Ethiopia,Medium,Whole Milk,None,Medium,Iced,6.92,2,13.84,0.87,0,CUST-8927,29+,Female,None,Cash,1.5,4,Cloudy,11,4
+TXN-10122,9/11/2026,8:00 AM,Friday,Morning,EMP-001,Flat White,Hot Coffee,Medium,Brazil,Light,None,Chocolate,None,Hot,3.23,1,3.23,0.26,0,CUST-8659,51+,Male,Bronze,UPI,0.8,2,Rainy,18,7
+TXN-10123,9/11/2026,8:30 AM,Friday,Morning,EMP-007,Cold Brew,Specialty,Small,Sumatra,Medium,Almond Milk,None,Medium,Hot,5.69,3,17.07,1.37,0,CUST-6690,36-50,Female,Bronze,Card,1,2,Sunny,6,4
+TXN-10124,9/11/2026,9:00 AM,Friday,Morning,EMP-004,Flat White,Cold Coffee,Large,Guatemala,Dark,None,Vanilla,High,Iced,5.44,1,5.44,0.44,0,CUST-9682,26-35,Male,None,Digital Wallet,0.5,2,Cloudy,12,6
